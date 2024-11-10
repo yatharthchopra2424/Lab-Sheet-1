@@ -33,3 +33,5 @@
 2. All the TestFiles which will be used to run the program to check test-cases are stored in ```test``` directory
 
 3. After all the javac commands have been executed, all new files will be stored in ```out/src``` and ```out/test``` directory, and will be used to execute the program.
+## About Me
+1. I am Yatharth Chopra, Studing in K R Mangalam Univercity,pursuing BTECH CSE DS , Roll No; 2301420022, 
